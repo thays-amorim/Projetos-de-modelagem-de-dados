@@ -1,5 +1,9 @@
-O modelo representa uma proposta de um e-commerce de vários prosutos,
-de forma simplificada. O objetivo é contruir as entidades e seus
-relacionamentos. Para este projeto, utilizei o MySQL Workbench. E
-conforme o curso Dio, aprimorar esta versão, deixando o mais completo e
-complexo com a aprendizagem.
+Dedicado a estudos de modelagem de dados relacional. O objetivo
+é adicionar cases para aprimoramento dos conceitos, desde
+refinamentos, à cases do zero.
+Atualmente uso o MySQLWorkbench para construir os modelos.
+
+A modelagem de dados é o processo de criar uma representação visual
+de um sistema de dados. É uma ferrameta essencial para garantir que
+os dados sejam organizados e possam ser mantidos e usados conforme
+necessário.
